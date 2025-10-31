@@ -1,0 +1,18 @@
+{
+  "projects": [
+    {
+      "title": "Sales Forecasting",
+      "description": "Built a sales forecasting pipeline using Prophet and XGBoost. Includes cleaning, feature engineering, backtesting, and a Streamlit dashboard.",
+      "link": "#",
+      "repo": "https://github.com/USERNAME/sales-forecasting",
+      "tags": ["Python", "Time Series", "Prophet", "XGBoost"]
+    },
+    {
+      "title": "Customer Segmentation",
+      "description": "K-means clustering on RFM features, cluster profiling, and visualization with Plotly and Tableau public.",
+      "link": "#",
+      "repo": "https://github.com/USERNAME/customer-segmentation",
+      "tags": ["Clustering", "EDA", "SQL"]
+    }
+  ]
+}
